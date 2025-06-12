@@ -33,8 +33,8 @@ const main = async () => {
     },
   ]);
 
-  const adobeUrl = 'https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/3a03c852-a9e7-484e-8b29-8ee9bc606dfe.png'; // Substitua pela URL real
-  const officeUrl = 'https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/93f205f3-bd54-4c88-888f-b478e66326ca.png'; // Substitua pela URL real
+const adobeUrl = 'https://ardownload2.adobe.com/pub/adobe/reader/win/AcrobatDC/2301020163/AcroRdrDC2301020163_en_US.exe';
+const officeUrl = 'https://download.microsoft.com/download/2/2/3/2236DBE3-3C6B-47FB-8D3C-2FE2DD6026DF/OfficeDeploymentTool.exe';
 
   switch (option) {
     case 'Baixar o pacote do Adobe':
